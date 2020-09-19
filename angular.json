@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shoppingweb"
+    }
+  },
+  "defaultProject": "shoppingweb",
+  "cli": {
+    "analytics": "c9323ac9-e1e1-43d8-ba65-185280fe6df3"
+  }
 }
